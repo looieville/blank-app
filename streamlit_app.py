@@ -13,6 +13,7 @@ dad_jokes = [
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
     "I'm reading a book about anti-gravity. It's impossible to put down!",
     "What do you call a prostitute who can rap? Araphoe",
+    "What's black, white and red all over? A zebra in a blender."
 ]
 
 # app title
